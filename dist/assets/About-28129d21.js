@@ -1,0 +1,2 @@
+import{d as t,o as a,t as n,a as c,w as s,B as r,u as _}from"./vendor-203c52f8.js";/* empty css              */const l=t({name:"about"}),f=t({...l,setup(i){const o=()=>{window.location.href="market://details?id=com.youloft.icloser"};return(u,d)=>{const e=r;return a(),n("div",null,[c(e,{onClick:o},{default:s(()=>[_("按钮")]),_:1})])}}});export{f as default};
+//# sourceMappingURL=About-28129d21.js.map

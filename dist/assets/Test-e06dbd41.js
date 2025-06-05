@@ -1,0 +1,2 @@
+import{_ as o}from"./index-a89aee85.js";import{o as t,t as c,z as _,A as a,v as s}from"./vendor-203c52f8.js";const r={},d=e=>(_("data-v-8e47897f"),e=e(),a(),e),n={class:"test"},i=d(()=>s("div",{class:"continer"},[s("div",{class:"arrow"}),s("div",{class:"arrow arrow-bg"}),s("div",{class:"box"})],-1)),p=[i];function l(e,f){return t(),c("div",n,p)}const m=o(r,[["render",l],["__scopeId","data-v-8e47897f"]]);export{m as default};
+//# sourceMappingURL=Test-e06dbd41.js.map
